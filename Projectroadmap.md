@@ -3,9 +3,9 @@
 ## Sprint 2 Tasks
 
 - [x] Set up Github repository
-- [ ] Updated README with project details
-- [ ] Create homepage layout
-- [ ] Add brand description section
+- [x] Updated README with project details
+- [x] Create homepage layout
+- [x] Add brand description section
 - [ ] Create product/collection section
 - [ ] Style website with CSS
 - [ ] Add social media/contact links
